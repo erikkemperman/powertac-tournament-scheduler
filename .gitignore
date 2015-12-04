@@ -6,6 +6,11 @@
 *.iws
 .idea/
 
+# Eclipse project files
+.classpath
+.project
+.settings
+
 # editor temp files
 *~
 *.swp
